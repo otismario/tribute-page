@@ -1,0 +1,81 @@
+html,body{
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    text-align:center;
+    color:#333;
+  }
+  
+  #main-container{
+    background:green;
+    display:flex;
+    flex-direction:column; 
+  }
+  .upside{
+    background: red;
+  }
+  
+  #title{
+    padding: 15px;
+    padding-bottom:0;
+  }
+  
+  .war-exodus{
+    max-width:100%;
+  }
+  
+  #img-caption{
+    padding: 0 0 15px 0;
+  }
+  
+  .storyline{
+    margin-bottom: ;
+    color: white;
+    text-decoration: underline;
+    font-size: 25px;
+  }
+  
+  #tribute-info{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background: green;
+    
+  }
+  
+  .story{
+    background: black;
+    font-size: 1.1em;
+    color: yellow;
+    margin: 0 auto;
+    max-width: 80%;
+    text-align: left;
+    padding: 5px 5px 5px 25px;
+  }
+  
+  li{
+    margin: 3px 0 15px 0;
+  }
+  
+  strong{
+    color:green;
+  }
+  
+  h1, p{
+    color: yellow;
+  }
+  
+  .transmission{
+    color: white;
+    list-style: none;
+    text-decoration: underline;
+    font-size: 25px;
+  }
+  
+  .narration{
+    color:white;
+    padding-bottom:15px;
+  }
+  
+  #tribute-link{
+    color:yellow;
+  }
+  
